@@ -8,6 +8,10 @@
  - 查看演示：<a href="particles-js">particles-js</a>
  - GitHub地址：<a href="https://github.com/zhichaosong/particles.js-demo">https://github.com/zhichaosong/particles.js-demo</a>
 
+### 3. Ionic3项目-智能家居
+ - 查看演示：<a href="smart-home">smart-home</a>
+ - GitHub地址：<a href="https://github.com/zhichaosong/smart-home">https://github.com/zhichaosong/smart-home</a>
+
 
 ### 欢迎关注我的 CSDN 博客
 <a href="https://blog.csdn.net/zhichaosong">https://blog.csdn.net/zhichaosong</a>
