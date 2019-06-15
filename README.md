@@ -1,15 +1,15 @@
 ## Welcome to GitHub Pages
 
 ### 1. 水波纹效果
- - 查看演示：<a href="html-wave">html-wave</a>
+ - 查看演示：<a href="https://zhichaosong.github.io/html-wave">html-wave</a>
  - GitHub地址：<a href="https://github.com/zhichaosong/html-wave">https://github.com/zhichaosong/html-wave</a>
 
 ### 2. 酷炫背景粒子插件particles.js星空背景
- - 查看演示：<a href="particles-js">particles-js</a>
+ - 查看演示：<a href="https://zhichaosong.github.io/particles-js">particles-js</a>
  - GitHub地址：<a href="https://github.com/zhichaosong/particles.js-demo">https://github.com/zhichaosong/particles.js-demo</a>
 
 ### 3. Ionic3项目-智能家居
- - 查看演示：<a href="smart-home">smart-home</a>
+ - 查看演示：<a href="https://zhichaosong.github.io/smart-home/">smart-home</a>
  - GitHub地址：<a href="https://github.com/zhichaosong/smart-home">https://github.com/zhichaosong/smart-home</a>
 
 
