@@ -13,7 +13,8 @@
  - GitHub地址：<a href="https://github.com/zhichaosong/smart-home">https://github.com/zhichaosong/smart-home</a>
 
 ### 4. Ionic4项目-知老
- - 查看演示：<a href="https://zhichaosong.github.io/ionic-zhilao/">smart-home</a>
+ - 查看演示：<a href="https://zhichaosong.github.io/ionic-zhilao/">知老 H5</a>
+ - 下载apk安装包：<a href="https://zhichaosong.github.io/ionic-zhilao/zhilao-demo20190724.apk">知老 APP(2.69MB)</a>
 
 
 ### 欢迎关注我的 CSDN 博客
